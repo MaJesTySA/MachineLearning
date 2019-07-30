@@ -1,8 +1,8 @@
-##### Machine Learning Basic Algorithms
+# Machine Learning Basic Algorithms
 
 ------
 
-**DBSCAN(Density-Based Spatial Clustering of Applications with Noise)**
+# DBSCAN(Density-Based Spatial Clustering of Applications with Noise)**
 
 DBSCAN聚类算法Python实现
 
@@ -16,7 +16,7 @@ DBSCAN聚类算法Python实现
 
 ------
 
-**GMM(Gaussian Mixture Model)**
+# GMM(Gaussian Mixture Model)**
 
 GMM聚类算法Python实现
 
@@ -26,7 +26,7 @@ GMM聚类算法Python实现
 
 ------
 
-**LVQ(Learning Vector Quantization)**
+# LVQ(Learning Vector Quantization)**
 
 LVQ聚类算法Python实现以及思考
 
@@ -38,7 +38,7 @@ LVQ聚类算法Python实现以及思考
 
 ------
 
-**MDS(Multidimensional Scaling)**
+# MDS(Multidimensional Scaling)**
 
 MDS降维公式推导和Python实现
 
@@ -50,6 +50,6 @@ MDS降维公式推导和Python实现
 
 ------
 
-**KNN(K Nearest Neighbor)**
+# KNN(K Nearest Neighbor)**
 
 
